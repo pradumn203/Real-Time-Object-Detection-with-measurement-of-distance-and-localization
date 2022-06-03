@@ -1,4 +1,4 @@
-# Object Detection with measurement of distance and localization
+# Real Time Object Detection with measurement of distance and localization
 
 ## Created and Modified by: <br>
 [![Pradumn Mishra](https://img.shields.io/badge/-Pradumn%20Mishra-magneta)](https://www.linkedin.com/in/pradumn203/)<br>
